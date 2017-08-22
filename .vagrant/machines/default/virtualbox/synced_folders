@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"owner":"vagrant","group":"vagrant","mount_options":["dmode=777","fmode=755","uid=1001","gid=1001"],"guestpath":"/var/www/html","hostpath":"/Users/admin/Vagrant/co708","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/admin/Vagrant/co708","disabled":false,"__vagrantfile":true}}}
